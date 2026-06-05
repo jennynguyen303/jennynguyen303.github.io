@@ -1,14 +1,23 @@
-# Hi, I’m Jenny Nguyen
+# Civil engineering student exploring ideas across disciplines
 
-I’m a civil engineering student with interests that go beyond engineering. I enjoy exploring ideas across engineering, business, finance, and whatever else happens to capture my attention. This website serves as a home for projects, writing, and ideas that I've explored along the way. Some are academic, some are personal, and some started as nothing more than a question I wanted to answer.
+I enjoy exploring ideas across engineering, business, finance, and whatever else happens to capture my attention. This website serves as a home for projects, writing, and ideas that I've explored along the way. Some are academic, some are personal, and some started as nothing more than a question I wanted to answer.
 
 Thanks for stopping by.
 
-## What you will find here
+## What You'll Find Here
 
-- Projects
-- Articles
-- Things I am curious about
+### Projects
+
+A collection of academic, personal, and independent projects.
+
+### Articles
+
+My own write-ups on topics I decide to explore.
+
+### Things I'm Curious About
+
+Experiments, challenges, competitions, certifications, and other pursuits.
+
 
 ## Contact
 
