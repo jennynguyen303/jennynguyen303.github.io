@@ -13,6 +13,6 @@ Thanks for stopping by.
 
 ## Contact
 
-- Email: <a href="mailto:nguyenjenny303@yahoo.com">ngueynjenny303@yahoo.com</a>
+- Email: <a href="mailto:nguyenjenny303@yahoo.com">nguyenjenny303@yahoo.com</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/jenny-nguyen-87a66a210">LinkedIn Profile</a>
 
