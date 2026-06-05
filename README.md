@@ -1,6 +1,6 @@
 # Civil engineering student exploring ideas across disciplines
 
-I enjoy exploring ideas across engineering, business, finance, and whatever else happens to capture my attention. This website serves as a home for projects, writing, and ideas that I've explored along the way. Some are academic, some are personal, and some started as nothing more than a question I wanted to answer.
+I enjoy exploring ideas across engineering, business, finance, and anything else that happens to capture my attention. This website serves as a home for projects, writing, and ideas that I've explored along the way. Some are academic, some are personal, and some started as nothing more than a question I wanted to answer.
 
 Thanks for stopping by.
 
