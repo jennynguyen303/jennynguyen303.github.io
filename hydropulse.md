@@ -1,3 +1,8 @@
+---
+layout: page
+title: Hydropulse
+---
+
 # Hydropulse
 
 ## Finalist, USC Das Family Innovate x LA Competition
