@@ -7,11 +7,8 @@ Thanks for stopping by.
 ## What You'll Find Here
 
 - Projects
-A collection of academic, personal, and independent projects.
 - Articles
-My own write-ups on topics I decide to explore.
 - Things I'm Curious About
-Experiments, challenges, competitions, certifications, and other pursuits.
 
 
 ## Contact
