@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Make the page feel less like a plain essay */
+.page-header {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.main-content {
+  line-height: 1.75;
+  font-size: 1.05rem;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.main-content blockquote {
+  border-left: 4px solid #d6d6d6;
+  padding-left: 1rem;
+  color: #555;
+  font-style: italic;
+  background: #f8f8f8;
+}
+
+.main-content img {
+  border-radius: 12px;
+  margin: 1rem 0;
+}
