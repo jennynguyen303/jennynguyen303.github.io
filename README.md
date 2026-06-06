@@ -6,9 +6,19 @@ Thanks for stopping by.
 
 ## What You'll Find Here
 
-- Projects
-- Articles
-- Things I'm Curious About
+### Projects
+
+#### [Hydropulse](hydropulse)
+
+Finalist in USC Viterbi's Das Family Innovate x LA Competition. Hydropulse explored recovering energy from pressure-reducing valve stations in water distribution systems using a standardized turbine system.
+
+### Articles
+
+My own write-ups on topics that capture my interest.
+
+### Things I Am Curious About
+
+Experiments, challenges, competitions, certifications, and other pursuits.
 
 
 ## Contact
