@@ -6,7 +6,7 @@ Thanks for stopping by.
 
 ## What You'll Find Here
 
-### Projects
+## Projects
 
 #### [Hydropulse](hydropulse)
 
