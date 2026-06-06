@@ -12,9 +12,11 @@ Thanks for stopping by.
 
 Finalist in USC Viterbi's Das Family Innovate x LA Competition. Hydropulse explored recovering energy from pressure-reducing valve stations in water distribution systems using a standardized turbine system.
 
-### Articles
+## Articles
 
-My own write-ups on topics that capture my interest.
+### [What I Learned in My First Engineering Entrepreneurship Competition](what-i-learned-in-my-first-engineering-entrepreneurship-competition)
+
+Reflections on my experience competing in USC Viterbi's Das Family Innovate x LA Competition and the lessons I learned along the way.
 
 ### Things I Am Curious About
 
