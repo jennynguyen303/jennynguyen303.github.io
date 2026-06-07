@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: What I Learned in My First Engineering Entrepreneurship Competition
 ---
 
