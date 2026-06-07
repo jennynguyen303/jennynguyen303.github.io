@@ -6,6 +6,7 @@ permalink: /what-i-learned-in-my-first-engineering-entrepreneurship-competition/
 ---
 
 # What I Learned in My First Engineering Entrepreneurship Competition
+*Published June 5, 2026*
 
 ## Introduction
 
