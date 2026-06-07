@@ -14,7 +14,7 @@ Finalist in USC Viterbi's Das Family Innovate x LA Competition. Hydropulse explo
 
 ## Articles
 
-### [What I Learned in My First Engineering Entrepreneurship Competition](what-i-learned-in-my-first-engineering-entrepreneurship-competition.html)
+### [What I Learned in My First Engineering Entrepreneurship Competition](/what-i-learned-in-my-first-engineering-entrepreneurship-competition/)
 
 Reflections on my experience competing in USC Viterbi's Das Family Innovate x LA Competition and the lessons I learned along the way.
 
