@@ -1,6 +1,7 @@
 ---
 layout: default
 title: What I Learned in My First Engineering Entrepreneurship Competition
+permalink: /what-i-learned-in-my-first-engineering-entrepreneurship-competition/
 ---
 
 # What I Learned in My First Engineering Entrepreneurship Competition
