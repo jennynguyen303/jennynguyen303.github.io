@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Why Engineering Students Should Learn Entrepreneurship"
+title: "Why Engineers Should Learn Entrepreneurship"
 date: 2026-06-06
-permalink: /why-engineering-students-should-learn-entrepreneurship/
+permalink: /why-engineers-should-learn-entrepreneurship/
 ---
-# Why Engineering Students Should Learn Entrepreneurship
+# Why Engineers Should Learn Entrepreneurship
 *Published June 6, 2026*
 
 Most engineers will build their careers in established companies, government agencies, research institutions, or consulting firms, and there is absolutely nothing wrong with that. Not every engineering student needs to become a founder, nor should that be the expectation.
