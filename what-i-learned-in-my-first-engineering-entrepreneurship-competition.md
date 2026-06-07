@@ -1,6 +1,7 @@
 ---
 layout: default
 title: What I Learned in My First Engineering Entrepreneurship Competition
+date: 6/5/2026
 permalink: /what-i-learned-in-my-first-engineering-entrepreneurship-competition/
 ---
 
