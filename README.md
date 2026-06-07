@@ -18,7 +18,7 @@ Finalist in USC Viterbi's Das Family Innovate x LA Competition. Hydropulse explo
 
 Reflections on my experience competing in USC Viterbi's Das Family Innovate x LA Competition and the lessons I learned along the way.
 
-### [Why Engineering Students Should Learn Entrepreneurship](https://jennynguyen303.github.io/why-engineering-students-should-learn-entrepreneurship/)
+### [Why Engineers Should Learn Entrepreneurship](https://jennynguyen303.github.io/why-engineers-should-learn-entrepreneurship/)
 
 ### Things I Am Curious About
 
