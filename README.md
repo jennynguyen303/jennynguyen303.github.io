@@ -8,7 +8,7 @@ Thanks for stopping by.
 
 ## Projects
 
-#### [Hydropulse](hydropulse)
+### [Hydropulse](hydropulse)
 
 Finalist in USC Viterbi's Das Family Innovate x LA Competition. Hydropulse explored recovering energy from pressure-reducing valve stations in water distribution systems using a standardized turbine system.
 
@@ -17,6 +17,8 @@ Finalist in USC Viterbi's Das Family Innovate x LA Competition. Hydropulse explo
 ### [What I Learned in My First Engineering Entrepreneurship Competition](/what-i-learned-in-my-first-engineering-entrepreneurship-competition/)
 
 Reflections on my experience competing in USC Viterbi's Das Family Innovate x LA Competition and the lessons I learned along the way.
+
+### [Why Engineering Students Should Learn Entrepreneurship](https://jennynguyen303.github.io/why-engineering-students-should-learn-entrepreneurship/)
 
 ### Things I Am Curious About
 
